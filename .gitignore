@@ -1,0 +1,7 @@
+# Never upload your secret key to GitHub!
+.env
+
+# Virtual environment and Python cache
+venv/
+.venv/
+__pycache__/
